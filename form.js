@@ -49,7 +49,7 @@ function checkinput() {
     } else if (passwordValue !== password2Value) {
         setErrorFor(password2, 'Passwords does not match');
     } else {
-        sets uccessFor(password2);
+        setssuccessFor(password2);
     }
 }
 
